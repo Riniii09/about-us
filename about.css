@@ -1,0 +1,66 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+video {
+    height: 300px;
+}
+
+#main, #emp {
+    font-style: italic;
+    font-size: 30px;
+    text-shadow: 4px 2px 15px;
+}
+
+.container {
+    font-size: 16px;
+    padding: 20px;
+}
+
+#quote {
+    width: 50%;
+    margin-left: 25%;
+    height: 285px;
+    margin-top: 10%;
+}
+
+#name {
+    margin-left: 64%;
+}
+
+#emp {
+    color: crimson;
+    font-weight: 800;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+#vid {
+    text-align: center;
+}
+
+#wel{
+    font-size: 50px;
+}
+
+#phil {
+    font-size: 50px;
+}
+
+#philosophy {
+    font-style: italic;
+}
+
+#img {
+    text-align: center;
+}
+
+img {
+    height: 100px;
+}
